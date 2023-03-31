@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eastvastage1/static/css/main.27b0da49.css",
+    "main.js": "/eastvastage1/static/js/main.558ddee2.js",
+    "static/js/787.09a7301e.chunk.js": "/eastvastage1/static/js/787.09a7301e.chunk.js",
+    "index.html": "/eastvastage1/index.html",
+    "main.27b0da49.css.map": "/eastvastage1/static/css/main.27b0da49.css.map",
+    "main.558ddee2.js.map": "/eastvastage1/static/js/main.558ddee2.js.map",
+    "787.09a7301e.chunk.js.map": "/eastvastage1/static/js/787.09a7301e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27b0da49.css",
+    "static/js/main.558ddee2.js"
+  ]
+}
